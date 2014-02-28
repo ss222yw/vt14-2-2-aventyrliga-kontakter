@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aventyrliga_Kontakter.Default" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAAAAAAQAAQAAgAAAAAIAAAQkAIAAAAIJICAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aventyrliga_Kontakter.Model.DAL.ContactDAL">
+    <Position X="4.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAAABAAAAAAAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>Model\DAL\ContactDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aventyrliga_Kontakter.Model.DAL.DALBase">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DAL\DALBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
